@@ -13,3 +13,4 @@ script: './script/cibuild'
 
 git:
   depth: 10
+
